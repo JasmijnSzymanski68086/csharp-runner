@@ -17,3 +17,4 @@ fast, secure c# runner
 // drop an unused branch
 // clarify the control flow
 // clarify the control flow
+// keep defaults in sync with the manifest
